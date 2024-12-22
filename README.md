@@ -25,9 +25,9 @@ I'm happy to discuss topics related to:
 
 ## 📫 How to Reach Me
 
-- **Email**: [shsani2001@gmail.com](mailto:shsani2001@gmail.com)
+- **Email**: [Email](mailto:shsani2001@gmail.com)
 - **LinkedIn**: [Syed Hussain-Sani](https://www.linkedin.com/in/syed-hussain-sani)
-- **Website**: [itzsani.github.io](https://itzsani.github.io)
+- **Website**: [My Website](https://itzsani.github.io/my_website/))
 
 ## ⚡ Fun Facts
 
