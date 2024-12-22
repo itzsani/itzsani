@@ -27,7 +27,7 @@ I'm happy to discuss topics related to:
 
 - **Email**: [Email](mailto:shsani2001@gmail.com)
 - **LinkedIn**: [Syed Hussain-Sani](https://www.linkedin.com/in/syed-hussain-sani)
-- **Website**: [My Website](https://itzsani.github.io/my_website/))
+- **Website**: [My Website](https://itzsani.github.io/my_website/)
 
 ## ⚡ Fun Facts
 
