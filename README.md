@@ -1,50 +1,53 @@
 # Hi there, I'm Syed Hussain-Sani 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in technology, software development, and creating impactful solutions. Explore my repositories to see the projects I've worked on and feel free to connect with me!
+Welcome to my GitHub profile! I'm a passionate Information Systems graduate with a strong focus on backend development, IT support, and database management. Explore my repositories to see the real-world projects I've built using Java, SQL, and backend frameworks. Always learning, always building!
 
 ## 🔭 Current Projects
+- **[Spring Social Media Blog API (Spring Boot)](https://github.com/itzsani/itzsani-pep-spring-project)**  
+  A backend REST API built with Spring Boot, handling user registration, login, and message CRUD operations. Designed with Spring Web, Spring Data JPA, and tested using JUnit and Mockito.
 
-- **[Java Calculator](https://github.com/itzsani/java-calculator)**: A functional calculator application with a graphical user interface built using Java Swing.
-- **[Library Management System](https://github.com/itzsani/library-management-system)**: A SQL-based project to manage books, users, and transactions efficiently.
-- **[Portfolio Website](https://github.com/itzsani/portfolio-website)**: A personal portfolio showcasing my projects, skills, and experiences.
+- **[Social Media Blog API (Javalin)](https://github.com/itzsani/itzsani-pep-project)**  
+  A lightweight backend API developed with Java, JDBC, and Javalin, managing user accounts and message functionalities through RESTful services, following Test Driven Development principles.
+
+- **[Library Management System](https://github.com/itzsani/library-management-system)**  
+  A full-stack Java and SQL project simulating a library system for managing books, users, and transactions. Implemented CRUD operations with JDBC and object-oriented design patterns.
+
+- **[Portfolio Website](https://github.com/itzsani/portfolio-website)**  
+  A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my projects, skills, and professional experiences.
 
 ## 🌱 Learning and Development
-
-I'm continually expanding my skill set. Currently focusing on:
-
-- **Programming Languages**: Python, Java, JavaScript
-- **Tools and Frameworks**: React, Node.js, SQL
+Currently growing my skills in:
+- **Backend Development**: Java, Spring Boot, REST APIs
+- **Database Management**: MySQL, PostgreSQL
+- **Software Testing**: JUnit, Mockito
+- **IT Support Tools**: Google Admin Console, Spiceworks
 
 ## 💬 Ask Me About
-
-I'm happy to discuss topics related to:
-
-- **Web Development**: Full-stack development, React, Node.js
-- **Data Analysis**: Python, SQL, Tableau
-- **Automation Testing**: Selenium, Cucumber
+I'm happy to discuss:
+- **Backend Development** with Java, Spring Boot, and SQL
+- **Database Design and Management** for real-world applications
+- **Technical Support** and IT Systems Troubleshooting
 
 ## 📫 How to Reach Me
-
-- **Email**: [Email](mailto:shsani2001@gmail.com)
+- **Email**: [shsani2001@gmail.com](mailto:shsani2001@gmail.com)
 - **LinkedIn**: [Syed Hussain-Sani](https://www.linkedin.com/in/syed-hussain-sani)
-- **Website**: [My Website](https://itzsani.github.io/my_website/)
+- **Website**: [itzsani.github.io/my_website/](https://itzsani.github.io/my_website/)
 
 ## ⚡ Fun Facts
-
-- I love exploring new technologies and working on creative projects.
-- Outside of coding, I enjoy hiking and playing chess.
+- I love building real-world solutions through technology.
+- Outside of coding, I enjoy hiking, chess, and exploring new strategies.
 
 ## 📈 GitHub Stats
-
 ![Syed Hussain-Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzsani&show_icons=true&theme=dark)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itzsani&theme=dark&background=000000)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itzsani&theme=dark&background=000000)
 
 ## 🏆 GitHub Trophies
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itzsani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✨ Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsani&layout=compact&theme=dark)
 
-Thanks for stopping by! Feel free to explore my repositories and connect. 😊
+---
+
+Thanks for visiting! Feel free to explore my projects and connect. 😊
