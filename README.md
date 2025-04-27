@@ -12,8 +12,12 @@ Welcome to my GitHub profile! I'm a passionate Information Systems graduate with
 - **[Library Management System](https://github.com/itzsani/library-management-system)**  
   A full-stack Java and SQL project simulating a library system for managing books, users, and transactions. Implemented CRUD operations with JDBC and object-oriented design patterns.
 
+- **[ERP IT Asset Management Dashboard (SQL + Tableau)](https://github.com/itzsani/erp-it-asset-dashboard)**  
+  A SQL-based ERP dashboard project for tracking IT assets and employee allocations. Built using Oracle ERP concepts, SQL queries, and visualized with Tableau Public for reporting and inventory analysis.
+
 - **[Portfolio Website](https://github.com/itzsani/portfolio-website)**  
   A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my projects, skills, and professional experiences.
+
 
 ## 🌱 Learning and Development
 Currently growing my skills in:
