@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a passionate Information Systems graduate with
 - **[Portfolio Website](https://github.com/itzsani/my_website)**  
   A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my projects, skills, and professional experiences.
 
+- **[Portfolio Website Version 2 (Updated)](https://github.com/itzsani/my-website-v2)**  
+  A modernized version of my original portfolio site, featuring video demos, animations, and a polished layout to better represent my personal brand and updated projects.
+  
+
 
 ## 🌱 Learning and Development
 Currently growing my skills in:
