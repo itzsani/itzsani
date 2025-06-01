@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Information Systems graduate with
 - **[ERP IT Asset Management Dashboard (SQL + Tableau)](https://github.com/itzsani/erp-it-asset-dashboard)**  
   A SQL-based ERP dashboard project for tracking IT assets and employee allocations. Built using Oracle ERP concepts, SQL queries, and visualized with Tableau Public for reporting and inventory analysis.
 
-- **[Portfolio Website](https://github.com/itzsani/portfolio-website)**  
+- **[Portfolio Website](https://github.com/itzsani/my_website)**  
   A personal portfolio website built with HTML, CSS, and JavaScript, showcasing my projects, skills, and professional experiences.
 
 
