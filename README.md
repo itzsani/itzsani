@@ -21,7 +21,15 @@ Welcome to my GitHub profile! I'm a passionate Information Systems graduate with
 - **[Portfolio Website Version 2 (Updated)](https://github.com/itzsani/my-website-v2)**  
   A modernized version of my original portfolio site, featuring video demos, animations, and a polished layout to better represent my personal brand and updated projects.
   
+## 🛠️ Tech Stack
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌱 Learning and Development
 Currently growing my skills in:
@@ -41,20 +49,23 @@ I'm happy to discuss:
 - **LinkedIn**: [Syed Hussain-Sani](https://www.linkedin.com/in/syed-hussain-sani)
 - **Website**: [itzsani.github.io/my_website/](https://itzsani.github.io/my_website/)
 
-## ⚡ Fun Facts
-- I love building real-world solutions through technology.
-- Outside of coding, I enjoy hiking, chess, and exploring new strategies.
+## 📈 GitHub Stats & Activity
 
-## 📈 GitHub Stats
-![Syed Hussain-Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzsani&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=itzsani&show_icons=true&theme=dark" alt="Syed's GitHub Stats"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=itzsani&theme=dark&background=000000" alt="GitHub Streak"/></td>
+  </tr>
+</table>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itzsani&theme=dark&background=000000)
+## 🏆 GitHub Trophies & Top Languages
 
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itzsani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-## ✨ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzsani&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=itzsani&theme=darkhub" alt="GitHub Trophies"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsani&layout=compact&theme=dark" alt="Top Languages"/></td>
+  </tr>
+</table>
 
 ---
 
